@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sharan</h1>
 <h3 align="center">an aspiring web developer deeply enthusiastic about crafting innovative websites and bolstering my expertise across the full-stack spectrum within organizations.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan-senthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sharan-senthilkumar" /> </p>
-![GIF](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif)
+<img src="https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif" align="right">
 
 - 🌱 I’m currently learning **Vuejs, Express, Node, Typescript**
 
