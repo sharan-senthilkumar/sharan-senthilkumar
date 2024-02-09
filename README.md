@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sharansenthilkumar0305@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF46FG8_Lg/ySbQe5mRn6tylDDqYHXOfA/view?utm_content=DAF46FG8_Lg&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAF46FG8_Lg/ySbQe5mRn6tylDDqYHXOfA/view?utm_content=DAF46FG8_Lg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences [My resume link](https://www.canva.com/design/DAF46FG8_Lg/ySbQe5mRn6tylDDqYHXOfA/view?utm_content=DAF46FG8_Lg&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
