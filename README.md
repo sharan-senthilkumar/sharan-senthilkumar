@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharan-senthilkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sharan-senthilkumar" /> </p>
 <img src="https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif" align="right">
 
-- 🌱 I’m currently learning **Vuejs, Express, Node, Typescript**
+- 🌱 I’m currently learning **MEVN stack and DevOps**
 
-- 💬 Ask me about **Flask, Django, MongoDB, MySQL**
+- 💬 Ask me about **Flask, MongoDB, MySQL**
 
 - 📫 How to reach me **sharansenthilkumar0305@gmail.com**
 
